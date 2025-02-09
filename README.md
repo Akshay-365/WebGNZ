@@ -1,4 +1,4 @@
-# WebGNZ
+# WebGNZ (or GriWeNz)
 webRTC + gRPC + NAT + ZTA
 
 
